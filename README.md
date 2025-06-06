@@ -1,1 +1,1 @@
-# JavaScriptProgrammingEssentials
+# Java Script Programming Essentials
